@@ -1,4 +1,5 @@
-Summary of Experience:
+<H1>Vincent Kovar </H1>
+<H2>Summary of Experience:</H2>
 
 As VP of Marketing for NFT Gaming Company, Inc. from 2022-2023, Vincent led the successful go-to-market strategy for a multi-genre, multi-game Web3 platform with 18 titles, supporting the NASDAQ IPO, driving business development, focusing the in-game economy, pricing, and marketing strategy.
 
